@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Run in iTerm",
+        "command": "run-in-iterm:run"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Run in iTerm",
+          "submenu": [
+            {
+              "label": "Run",
+              "command": "run-in-iterm:run"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
