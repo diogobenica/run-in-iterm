@@ -1,5 +1,13 @@
-# rspec-copy package
+# Run in iTerm
 
-A short description of your package.
+Run the current file in iTerm
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![Example](http://g.recordit.co/EQPVMJXdQt.gif)
+
+## Support
+
+- [x] RSpec
+
+## Command
+
+**cmd-shift-r** Run the current file in iTerm
