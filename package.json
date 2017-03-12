@@ -1,7 +1,7 @@
 {
   "name": "run-in-iterm",
   "main": "./lib/main",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Run the current file in iTerm",
   "keywords": [
     "iterm",
@@ -17,6 +17,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
