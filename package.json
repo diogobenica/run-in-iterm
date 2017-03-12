@@ -4,6 +4,10 @@
   "version": "0.0.1",
   "description": "Run the current file in iTerm",
   "keywords": [
+    "iterm",
+    "terminal",
+    "rspec",
+    "run"
   ],
   "activationCommands": {
     "atom-workspace": "run-in-iterm:run"
